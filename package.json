@@ -1,0 +1,23 @@
+{
+  "name": "shuffle-array",
+  "version": "1.0.0",
+  "description": "Shuffle Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drjseifu1991/shuffle-array.git"
+  },
+  "keywords": [
+    "Shuffle",
+    "Array"
+  ],
+  "author": "Dereje Seifu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drjseifu1991/shuffle-array/issues"
+  },
+  "homepage": "https://github.com/drjseifu1991/shuffle-array#readme"
+}
